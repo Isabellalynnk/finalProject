@@ -4,7 +4,7 @@
 <ul>
   <li>Use the space bar to move the tortilla</li>
   <li>Go through the pipes</li>
-  <li>Refrain from hitting the pipes, hitting pipes ends the game</li>
+  <li>Refrain from hitting the pipes; hitting the pipes ends the game</li>
 </ul>
 <hr>
 <h2>Download</h2>
